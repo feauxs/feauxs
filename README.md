@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @feauxs
-- 👀 I’m interested in programming.
-- 🌱 I’m currently taking the harvard online course for computer science
-- ⚡ Fun fact: I'm 16 years old and an incoming SHS student in Stem.
+
